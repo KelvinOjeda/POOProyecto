@@ -1,1 +1,1 @@
-.-Hola a todos por este medio vamos a colgar todos los archivos necesarios para el proyecto de POO
+.-Hola a todos por este medio vamos a colgar todos los archivos necesarios para el proyecto de POO que incluye la base de datos
